@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Search
 |  |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
