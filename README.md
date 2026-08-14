@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +39,9 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
