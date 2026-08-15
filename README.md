@@ -8,6 +8,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1480-running-sum-of-1d-array](https://github.com/krishmishra948/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/krishmishra948/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
