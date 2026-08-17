@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
