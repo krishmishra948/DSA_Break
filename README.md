@@ -54,6 +54,7 @@
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
 | ------- |
