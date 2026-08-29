@@ -8,11 +8,13 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/krishmishra948/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,12 +52,14 @@
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/krishmishra948/Leetcode/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +84,8 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/krishmishra948/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
