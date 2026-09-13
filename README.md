@@ -11,6 +11,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/krishmishra948/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -94,4 +96,9 @@
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
