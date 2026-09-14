@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -53,6 +54,7 @@
 | [0086-partition-list](https://github.com/krishmishra948/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/krishmishra948/Leetcode/tree/master/0148-sort-list) |
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/krishmishra948/Leetcode/tree/master/0148-sort-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
