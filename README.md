@@ -62,6 +62,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
+| [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
 |  |
