@@ -60,6 +60,7 @@
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2000-reverse-prefix-of-word](https://github.com/krishmishra948/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0541-reverse-string-ii](https://github.com/krishmishra948/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/krishmishra948/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/krishmishra948/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Linked List
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/krishmishra948/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
