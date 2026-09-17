@@ -15,11 +15,13 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Binary Search
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -111,6 +114,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,4 +131,9 @@
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+## Counting
+|  |
+| ------- |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 <!---LeetCode Topics End-->
