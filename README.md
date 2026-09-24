@@ -136,4 +136,16 @@
 |  |
 | ------- |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
