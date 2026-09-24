@@ -16,6 +16,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishmishra948/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishmishra948/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
