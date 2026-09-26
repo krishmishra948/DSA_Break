@@ -142,16 +142,19 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -160,4 +163,5 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
