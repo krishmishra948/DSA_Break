@@ -101,6 +101,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/krishmishra948/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/krishmishra948/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/krishmishra948/Leetcode/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/krishmishra948/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -128,6 +129,7 @@
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/krishmishra948/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -144,6 +146,7 @@
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -152,6 +155,7 @@
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -159,6 +163,7 @@
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Math
