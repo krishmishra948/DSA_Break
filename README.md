@@ -149,6 +149,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/krishmishra948/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/krishmishra948/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/krishmishra948/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
