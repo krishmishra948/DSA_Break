@@ -23,6 +23,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/krishmishra948/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0374-guess-number-higher-or-lower](https://github.com/krishmishra948/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Divide and Conquer
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/krishmishra948/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/krishmishra948/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
