@@ -15,6 +15,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishmishra948/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -70,6 +71,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/krishmishra948/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
@@ -82,6 +84,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishmishra948/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/krishmishra948/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/krishmishra948/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Enumeration
 |  |
