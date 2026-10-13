@@ -163,6 +163,7 @@
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/krishmishra948/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
