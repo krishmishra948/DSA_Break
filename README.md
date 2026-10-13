@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
+| [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,6 +163,7 @@
 | [0110-balanced-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krishmishra948/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -183,6 +185,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Lifting
 |  |
@@ -207,9 +210,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
