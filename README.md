@@ -19,6 +19,7 @@
 | [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/krishmishra948/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/krishmishra948/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krishmishra948/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@
 | [2465-number-of-distinct-averages](https://github.com/krishmishra948/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/krishmishra948/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/krishmishra948/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/krishmishra948/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3794-reverse-string-prefix](https://github.com/krishmishra948/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/krishmishra948/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
