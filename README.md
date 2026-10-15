@@ -9,6 +9,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
 | [1089-duplicate-zeros](https://github.com/krishmishra948/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/krishmishra948/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/krishmishra948/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -193,6 +194,7 @@
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -226,4 +228,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
