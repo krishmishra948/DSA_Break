@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/krishmishra948/Leetcode/tree/master/0027-remove-element) |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/krishmishra948/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/krishmishra948/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishmishra948/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
@@ -193,6 +194,7 @@
 | [0101-symmetric-tree](https://github.com/krishmishra948/Leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/krishmishra948/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -228,5 +230,10 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
