@@ -174,6 +174,7 @@
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krishmishra948/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +197,7 @@
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/krishmishra948/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
@@ -222,10 +224,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/krishmishra948/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/krishmishra948/Leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -236,4 +240,12 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/krishmishra948/Leetcode/tree/master/0542-01-matrix) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/krishmishra948/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
